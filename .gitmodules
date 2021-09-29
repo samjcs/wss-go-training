@@ -1,3 +1,9 @@
 [submodule "go-training-1"]
 	path = go-training-1
 	url = https://github.com/samjcs/go-training-1
+[submodule "go-training-2"]
+	path = go-training-2
+	url = https://github.com/samjcs/go-training-2
+[submodule "go-training-3"]
+	path = go-training-3
+	url = https://github.com/samjcs/go-training-3
